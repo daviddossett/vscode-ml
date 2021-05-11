@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "ai.azureml.defaultWorkspaceId": "/subscriptions/74a79e74-f5d9-44c5-8694-73ac8801c1b9/resourceGroups/WS05111554-rg2/providers/Microsoft.MachineLearningServices/workspaces/WS05111554"
+}
